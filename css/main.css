@@ -189,7 +189,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #ba4c63;
+    background: #233140;
 }
 
 section.success a,
@@ -341,7 +341,13 @@ section.success a.active {
 form .row:first-child .floating-label-form-group {
     border-top: 1px solid #eee;
 }
-
+.btn-success{
+background-color: #BA4C63;
+border: #BA4C63;
+}
+btn-success:hover{
+background-color: 8e394a;
+}
 footer {
     color: #fff;
 }
@@ -352,7 +358,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #798D8F;
+    background-color: #233140;
 }
 
 footer .footer-col {
@@ -361,7 +367,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
+    background-color: #4ABC96;
 }
 
 .btn-social {
